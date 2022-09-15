@@ -3,7 +3,7 @@
 # Create a barplot for one numeric column, grouped by the character vector with 3 unique values
   # Add error bars with mean and standard deviation to the plot
   # Change the x and y labels and add a title
-  # Export the plot as a PDF that is 4 inches wide and 7 inches tall.
+  # Export the plot as a PDF that is 4 inches wide and 7 inches tall. #forgot a title and the width/height are backward.
 
 # Create a scatter plot between two of your numeric columns.
   # Change the point shape and color to something NOT used in the example.
