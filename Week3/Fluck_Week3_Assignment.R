@@ -43,10 +43,15 @@ p<-drift.selection(p0=0.01,Ne=300,w=c(1,0.9,0.8),ngen=200,nrep=5)
 print(p)
 plot(p)
 
+#where are the plots you were supposed to export?
+
 install.packages("vegan")
 library(vegan)
 
 ## Example 1: Unconstrained ordination
+#This is a great tool that we will explore later in the semester, but it is not at all related to the assignment. 
+#This does not calculate diversity metrics. Also no plots saved.
+
 ## NMDS
 data(varespec)
 data(varechem)
