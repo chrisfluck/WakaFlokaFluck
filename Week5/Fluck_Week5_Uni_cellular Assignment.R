@@ -11,7 +11,10 @@
 # Based on these observations of your strain distributions, why did the authors use a Kruskal-Wallis test rather than ANOVA to compare the strains? (2 pts)
 
 ###There is not a normal distribution of data so the anova test would not have properly worked.
+#So why does K-W work instead?
 
+
+#...where are the answers to the rest of the assignment?
 # Use the fitdist() and gofstat() functions to compare the poisson, negative binomial, and logistic distributions for:
   # (1) - The number of cells of progeny (data$Num.Cells.Progeny)
   # (2) - The replication time (data$RepTime.sec)
