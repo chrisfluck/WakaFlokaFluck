@@ -34,7 +34,7 @@ df$prop.cons <- df$eaten/df$prey
 
 # (Q5) - Based on the residuals of your generalized additive models, how confident are you in these results? (2 pts)
 
-### im not don e with this yet im really struggling and due to senior research i cannot attend the review sessions. i will be trying to finish this up today
+### im not done with this yet im really struggling and due to senior research i cannot attend the review sessions. i will be trying to finish this up today
 
 
 
@@ -42,4 +42,4 @@ library(MASS)
 library(MuMIn)
 library(mgcv)
 df <- read.csv("Uchidaetal_2019_Data.csv")
-gml.add <-
+gml.add <- 
